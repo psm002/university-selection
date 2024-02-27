@@ -35,7 +35,7 @@ def app():
     side_show()
     st.title('University Selection')
     st.write('Explore US universities! The streamlit app filters the universities that match \
-    with your preferences and uses machine learning alogrithms to predict your admission probability for those universities.')
+    with your preferences and uses machine learning algorithms to predict your admission probability for those universities.')
     
     st.markdown("---")
 
